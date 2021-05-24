@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="sanitory" duration-ms="104570" started-at="2021-05-24T02:13:32 PDT" finished-at="2021-05-24T02:15:16 PDT">
+    <groups>
+    </groups>
+    <test name="Address_Booking_system" duration-ms="104570" started-at="2021-05-24T02:13:32 PDT" finished-at="2021-05-24T02:15:16 PDT">
+      <class name="test_Cases.TC1_Login">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:test_Cases.TC1_Login@e874448]" name="setup" is-config="true" duration-ms="21128" started-at="2021-05-24T02:13:32 PDT" finished-at="2021-05-24T02:13:54 PDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test_Cases.TC1_Login@e874448]" name="login" duration-ms="81618" started-at="2021-05-24T02:13:54 PDT" finished-at="2021-05-24T02:15:15 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test_Cases.TC1_Login@e874448]" name="teardown" is-config="true" duration-ms="1137" started-at="2021-05-24T02:15:15 PDT" finished-at="2021-05-24T02:15:16 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test_Cases.TC1_Login -->
+    </test> <!-- Address_Booking_system -->
+  </suite> <!-- sanitory -->
+</testng-results>
